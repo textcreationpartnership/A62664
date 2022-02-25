@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Timothy Touchstone's reply to Sir Anonymus, at Mr. Christian's lodgings, at the sign of the naked devil, between Hamden and Danby-Houses</title>
+            <author>Touchstone, Timothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62664</idno>
+            <idno type="STC">Wing T1292</idno>
+            <idno type="STC">ESTC R1543</idno>
+            <idno type="EEBO-CITATION">12075828</idno>
+            <idno type="OCLC">ocm 12075828</idno>
+            <idno type="VID">53589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 582:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Timothy Touchstone's reply to Sir Anonymus, at Mr. Christian's lodgings, at the sign of the naked devil, between Hamden and Danby-Houses</title>
+                  <author>Touchstone, Timothy.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian, Edward.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53589:1"/>
+            <pb n="1" facs="tcp:53589:1"/>
+            <head>
+               <hi>Timothy Touchſtone's</hi> REPLY TO Sir ANONYMUS, At Mr. <hi>Chriſtian</hi>'s Lodging, at the Sign of the <hi>Naked Devil,</hi> between HAMDEN and DANBY-Houſes.</head>
+            <p>I Know you beſtow the Title of Knighthood on me, in expectation it may rebound to your ſelf, and 'tis granted; but aſſured be, that many a better <hi>Chriſtian —</hi> is forc'd to go without it.</p>
+            <p>Sir <hi>Bartholomew,</hi> al. <hi>Anonymus,</hi> welcom from thy Rooſt.</p>
+            <p>Did I not think you had been imployed in <hi>Bartholomew-Fair,</hi> for the ſet<g ref="char:EOLhyphen"/>ting up of Booths, Sheds, <hi>&amp;c.</hi> I ſhould have juſtly taxed you with lazineſs, neglect, or ſome other worſe faculty; but conſidering that, and the putting on your Fools Cloathing for the firſt week, to encourage the Rabble to be<g ref="char:EOLhyphen"/>hold your Antick poſtures, is ſufficient to excuſe: wherefore I ſhall only tell you, how much I admire <hi>T.</hi> E. of <hi>D.</hi> ſhould infringe ſo much on his wit, to commit a matter of ſuch apparent ponderous conſequence, to thy ſilly Vin<g ref="char:EOLhyphen"/>dication; for as your ſtile repreſents you, you muſt certainly be a more fit perſon to be the Fool of ſome Droll, <hi>&amp;c.</hi> then to write Pamphlets, unleſs you could make your Compound more agreeable, and keep cloſer to the Matter you ſo impertinently pretend to Anſwer, which there's no Baby in the whole Fair but muſt needs have writ more to the purpoſe, then you have done in any part of yours: And as you ſay you are in love with my Stile, really I ſhould have been much more ſo with yours, could you but have wrote in either of thoſe damn'd ſerious Stiles as Mr. <hi>Papiſt</hi> or <hi>John Presbyter</hi> in this Age do.</p>
+            <p>But look you (ſaid I, Sir <hi>Anon.</hi>) can reaſon come from that which has no ſenſe? or can any Puppy be ſo impertinent to take upon him to anſwer a truth in vindication of the E. of <hi>D.</hi> who does not deſire nor deſerve it, and that with a Scandalous Paper, wherein is not to be found one Syllable, which holds up to the ſubject you ſo fain would treat on; wherefore how can you imagine any Reader to take you for more then this Paragraph explains you to be, or ſome private Centinel, in one of the Regiments of Players, Pimps, Whores, <hi>&amp;c.</hi> which yours makes mention of: But really the ſaddeſt part of the Story is the ſuddain transformation you make of harmleſs Naked Truth; what is Truth become ſo terrible a ſcare-crow that you can term it no better then a Naked Devil? Nay, then I find 'twas poor Innocent Truth
+<pb n="2" facs="tcp:53589:2"/>frighted you from the due conſideration of my Paper, and has expoſed you to ſuch remarkable notches of Study, that it will be more credible to lay down the Pen, then to perſiſt in ſuch practices. Poor <hi>Anon.</hi> indeed I find thou waſt put to a hard plunge, after a Months converſe with my Paper, to patch up a penny worth of News. For</p>
+            <p n="1">1. We are to believe thee a man of an Eſtate.</p>
+            <p n="2">2. Something of a <hi>Chriſtian —</hi> by your treating on St. <hi>Pauls</hi> Rules.</p>
+            <p n="3">3. A well-wiſher to the ſucceſs of the Preſs, which rather then fail, you are willing to lug your ſelf in too.</p>
+            <p>But in Truth <hi>Anon.</hi> I am much of your mind, that you hate both Court and Courtiers too, for it plainly appears by your <hi>Northern</hi> Bre<g ref="char:EOLhyphen"/>thren ſetting on foot the Covenant in <hi>Scotland,</hi> and your daily rebellious Stories in <hi>Coffee-houſes</hi> (the very Cabinets of Rebellions and Factions) what you would be at, and how diſcontented are the whole gang of your Rump Friends, they cannot publickly pray for the good of a Common weal, and ſow Perdition to your contentment at your Factious Aſſemblies, where a poor Illiterate Coxcomb, who lurks the whole Week beſides in holes ga<g ref="char:EOLhyphen"/>thering of Venome, ſtands on the 7th. day up to the knees laden with the ambition of Preaching Monarchy headlong down, in <hi>Diogenes Doctrine;</hi> and this is the courſe you would take to lug in by head and ſhoulders <hi>John Presbyter,</hi> but the better to aſſiſt it would have the helping hand of <hi>T.</hi> E. <hi>D.</hi>
+            </p>
+            <p>But (ſay I, and touch you to the quick) that will not do, nor make any thing ſo plain for his Lordſhip, as might have done the five pair of double Barreld Piſtols, if not diſcovered, for in Naked Truth my former Author <hi>John the Brewer</hi> is ready to Swear, and plainly to make out againſt the <hi>Stam<g ref="char:EOLhyphen"/>ford</hi> Evidence, and that hireling <hi>Kirkby,</hi> all the tricks played at the Lodg<g ref="char:EOLhyphen"/>ings between <hi>Hamden</hi> and <hi>Danby</hi> houſes, Sir <hi>Edmundberry Godfrey</hi> having that very day on which he was miſſing, at Eleven a Clock, paſſed through my Lady <hi>Anne Cooks</hi> Chamber, as Mr. <hi>Chriſtian</hi> himſelf allows of; and in fine, that <hi>Chriſtian</hi> at Two of the Clock in the Afternoon that day took Wa<g ref="char:EOLhyphen"/>ter from <hi>Whitehall</hi> Stairs with him; but as he ſays, and I believe, carried him to the <hi>Naked Devil</hi> indeed to be Murdered: Therefore do you think to make people believe <hi>Chriſtian</hi> could be at that time at <hi>Stamford?</hi> what a Cunning Arch Rogue is this <hi>John the Brewer,</hi> nay and very poſitive too, for he knows much of the E. of <hi>D.</hi> concerns, and will perhaps prove by ſound Circumſtances that Sir <hi>E.B.G.</hi> was Murthered by the hand of <hi>Chriſtian —</hi> or at leaſt by his conſent.</p>
+            <p>Now Sir <hi>Anonymus,</hi> take my advice, lay down your Pen, Fiſh not in trou<g ref="char:EOLhyphen"/>bled Waters, meddle not with Scepters or Crowns, or the weighty Govern<g ref="char:EOLhyphen"/>ment of Nations, go not about either to introduce, or expel; peſter not thy pate with State-affairs, but take off your <hi>Protestant Mask,</hi> and in Naked Truth appear with <hi>John Presbyters</hi> worm-eaten Face, otherwiſe you may be look'd upon by thy Fraternity as a Deſerter, and ſo be thruſt out to look ſome better way to Heaven: deal like an honeſt, moral, good and loyal Subject; pray for thy King and Country, with ſuch a zeal as would more become thee, then the ſaying <hi>(Honour the King)</hi> which is to convert the Train you now belong to: put your helping hand to the Plough, and come about to me, then may you with honeſt <hi>John the Brewer,</hi> rejoyce and turn your formal tone <hi>Honour the King,</hi> to <hi>Let the King live;</hi> for to Honour a King amongſt you is accounted a terrible yoke, and to my certain know<g ref="char:EOLhyphen"/>ledge, you and all other <hi>Presbyters</hi> would uſe your utmoſt endeavours to overthrow the ſame. This is the opinion of honeſt</p>
+            <closer>
+               <signed>T. T.</signed>
+            </closer>
+            <pb facs="tcp:53589:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
